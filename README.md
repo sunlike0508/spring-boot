@@ -239,6 +239,7 @@ Fat Jar는 하나의 Jar 파일에 라이브러리의 클래스와 리소스를 
 
 ### 실행 가능 Jar 내부 구조
 
+<img width="510" alt="Screenshot 2024-11-24 at 14 46 56" src="https://github.com/user-attachments/assets/ace4be72-b9b7-4a40-9507-cf3392518fbe">
 
 **Jar 실행 정보**
 
