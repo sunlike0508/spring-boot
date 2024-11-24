@@ -277,6 +277,8 @@ Build-Jdk-Spec: 17
   * `Spring-Boot-Layers-Index` : 스프링 부트 구조 정보
 * 참고: `Main-Class` 를 제외한 나머지는 자바 표준이 아니다. 스프링 부트가 임의로 사용하는 정보이다.
 
+<img width="384" alt="Screenshot 2024-11-24 at 14 59 05" src="https://github.com/user-attachments/assets/dabdf485-699e-413b-9e6b-c29140aecc10">
+
 **스프링 부트 로더**
 
 `org/springframework/boot/loader` 하위에 있는 클래스들이다.
