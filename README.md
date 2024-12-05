@@ -316,3 +316,4 @@ WAR구조는 `WEB-INF` 라는 내부 폴더에 사용자 클래스와 라이브�
 
 IDE가 필요한 라이브러리를 모두 인식할 수 있게 도와주기 때문에 `JarLauncher` 가 필요하지 않다.
 
+[다음 내용](https://github.com/sunlike0508/spring-embed)
